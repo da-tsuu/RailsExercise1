@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  resource :contacts
+  resources :contacts
 end
